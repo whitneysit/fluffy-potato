@@ -1,2 +1,0 @@
-# fluffy-potato
-Scrimba Work
